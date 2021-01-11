@@ -1,1 +1,10 @@
+That files must to be open with Pentaho Data Integration.
 
+The first job mainCall.kjb is the main job for entire process.
+You need to change the values into the field in the variable step.
+Also, change the step FiltraArquivos into listFiles ktr object for select which files you want to download.
+
+You cand find a detail explain in this link: 
+https://3brs.com.br/2020/12/02/consumindo-dados-do-onedrive-por-api/
+
+contact whatsapp: +5511959606977
